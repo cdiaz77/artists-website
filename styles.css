@@ -1,0 +1,22 @@
+body{
+    background-color: ;
+    background-image: url("https://media.gq.com.mx/photos/64e6870e4c4f9230457e646c/4:3/w_2664,h_1998,c_limit/Junior_H_cantante-1499146021.jpg");
+    
+    background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; /* Resize the background image to cover the entire container */
+  width: 75px;
+
+}
+h1{
+  color:white;
+  
+}
+h2{
+  color:white;
+}
+
+p{
+  color:white;
+}
+
