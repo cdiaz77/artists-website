@@ -1,22 +1,34 @@
 body{
-    background-color: ;
-    background-image: url("https://media.gq.com.mx/photos/64e6870e4c4f9230457e646c/4:3/w_2664,h_1998,c_limit/Junior_H_cantante-1499146021.jpg");
+    /* background-color: ; */
+    background-image: url("https://assets-global.website-files.com/62aa5d3f408f1681bc0ddb81/634debf9dbc10463727d4d14_20221016_KE_019037.jpg");
     
     background-position: center; 
-  background-repeat: no-repeat; 
-  background-size: cover; /* Resize the background image to cover the entire container */
-  width: 75px;
+    background-size: cover;
+    
+    
+   /* Resize the background image to cover the entire container */
+  
 
 }
 h1{
-  color:white;
-  
+  color:#8B0000;
 }
 h2{
-  color:white;
+  color:#8FBC8F;
 }
 
 p{
-  color:white;
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+table{
+  background-color: honeydew;
+  border: 1px solid black;
+}
+form{
+  background-color:#FFE4E1;
 }
 
