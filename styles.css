@@ -26,9 +26,12 @@ p{
 }
 table{
   background-color: honeydew;
-  border: 1px solid black;
+  border: 2px solid black;
 }
 form{
   background-color:#FFE4E1;
+  border: 5px solid white;
+  width: 300px;
+  padding: 10px;
 }
 
